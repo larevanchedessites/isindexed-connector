@@ -1,0 +1,14 @@
+{
+  "dataStudio": {
+    "name": "ISindexed.com API unofficial connector by Qwamplify SEO",
+    "company": "Qwamplify SEO",
+    "companyUrl": "https://www.qwamplify-seo.com",
+    "logoUrl": "https://www.la-revanche-des-sites.fr/wp-content/uploads/2020/02/logo-qwamplify-seo.png",
+    "addonUrl": "https://github.com/larevanchedessites/isindexed-connector",
+    "supportUrl": "https://github.com/larevanchedessites/isindexed-connector/issues/new?title=ISindexed%20Connector%20Issue",
+    "description": "An unofficial Google Data Studio Connector for visualising Project Status of your ISindexed.com urls using this API - https://tool.isindexed.com/docapi",
+    "shortDescription": "unofficial Data Studio Connector for visualising  Project Status of your ISindexed.com urls.",
+    "authType": ["KEY"],
+    "feeType": ["FREE"]
+  }
+}
