@@ -10,8 +10,7 @@ You can find the API documentation [here][api_doc].
 
 ## Try the Connector in Data Studio
 
-You can try out the managed deployment of the latest code: [GitHub Community
-Connector][production deployment]
+You can try out the managed deployment of the latest code: [Connector][production deployment]
 
 ## Deploy the Community Connector yourself
 
