@@ -1,4 +1,4 @@
-# ISindexed.com Connector for Data Studio
+# ISindexed.com Connector for Google Data Studio
 
 *This is neither an official Google Product nor an ISindexed.com product*
 
@@ -8,7 +8,7 @@ users query urls status for projects from [ISindexed][isindexed].
 ## API Documentation
 You can find the API documentation [here][api_doc].
 
-## Try the Connector in Data Studio
+## Try the Connector in Google Data Studio
 
 You can try out the managed deployment of the latest code: [Connector][production deployment]
 
